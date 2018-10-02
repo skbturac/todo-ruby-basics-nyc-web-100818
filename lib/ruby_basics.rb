@@ -1,16 +1,16 @@
 def division(num1, num2)
- 
+ num1/num2
 end
 
 def assign_variable(value)
-  
+  n = value
 end
 
-def argue
-  
+def argue(argument)
+  "you are wrong!"
 end
 
-def greeting
+def greeting(arg1,arg2)
 
 end
 
